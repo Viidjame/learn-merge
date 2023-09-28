@@ -9,6 +9,7 @@ public class LearnMergeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LearnMergeApplication.class, args);
 		System.out.println("Hello");
+		System.out.println("JASDFAS");
 		System.out.println("Jimmy");
 	}
 
