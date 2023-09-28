@@ -11,12 +11,6 @@ public class LearnMergeApplication {
 		System.out.println("Hello");
 		System.out.println("JASDFAS");
 		System.out.println("Jimmy");
-		System.out.println("SDFASDAF");
-		System.out.println("ALSDFKADSFKA");
 	}
 
-	@Override
-	protected Object clone() throws CloneNotSupportedException {
-		return super.clone();
-	}
 }
