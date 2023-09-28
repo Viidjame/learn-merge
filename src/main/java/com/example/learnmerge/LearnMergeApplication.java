@@ -11,7 +11,8 @@ public class LearnMergeApplication {
 		System.out.println("Hello");
 		System.out.println("JASDFAS");
 		System.out.println("Jimmy");
-		System.out.println("Hello");
+		System.out.println("SDFASDAF");
+		System.out.println("ALSDFKADSFKA");
 	}
 
 	@Override
